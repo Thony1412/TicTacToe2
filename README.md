@@ -1,2 +1,2 @@
 # TicTacToe2
-Basic Tic tac toe
+Tic Tac Toe game using Java
